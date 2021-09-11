@@ -1,5 +1,5 @@
 ## Halo, saya Ari Sumardi
-Saya seorang fresh graduate __Sarjana Teknik Informatika__ dari __Universitas Komputer Indonesia__.
+Seorang fresh graduate __Sarjana Teknik Informatika__ dari __Universitas Komputer Indonesia__.
 Saya menyukai dunia pengembangan website dan aplikasi mobile. 
 
 <!---
