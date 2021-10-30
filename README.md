@@ -1,6 +1,5 @@
-## Halo, saya Ari Sumardi
-Seorang fresh graduate __Sarjana Teknik Informatika__ dari __Universitas Komputer Indonesia__.
-Saya menyukai dunia pengembangan website dan aplikasi mobile. 
+## My name is Ari Sumardi
+I am a person who likes programming. My specialty is developing websites. Now I work at a startup that handles payment gateways and online payments 
 
 <!---
 AriSmrd7/AriSmrd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
